@@ -3,24 +3,23 @@
 This project provides a Streamlit-based web application for generating images from text prompts using a locally hosted Stable Diffusion XL model. It enables users to input descriptive prompts and receive corresponding AI-generated images directly on their machines, ensuring privacy and offline capability.​
 
 Features
-- Local Model Hosting: Runs the Stable Diffusion XL model entirely offline on your hardware.​
-- Interactive Prompt Input: Enter custom text prompts to generate unique images.​
-- Batch Generation: Specify the number of images to generate per prompt.​
-- Progress Feedback: Visual progress bar updates during image generation.​
+ - Local Model Hosting: Runs the Stable Diffusion XL model entirely offline on your hardware.​
+ - Interactive Prompt Input: Enter custom text prompts to generate unique images.​
+ - Batch Generation: Specify the number of images to generate per prompt.​
+ - Progress Feedback: Visual progress bar updates during image generation.​
 
 Requirements
 Hardware: A GPU with a minimum of 8GB VRAM is recommended for optimal performance.​ (Note: can run with CPU but will be very slow)
 
 Software Dependencies:
-
-Python 3.8 or higher​
-Streamlit​
-Transformers​
-Jakarta AI Research
-Diffusers​
-Torch​
-ctransformers​
-Pillow​
+ - Python 3.8 or higher​
+ - Streamlit​
+ - Transformers​
+ - Jakarta AI Research
+ - Diffusers​
+ - Torch​
+ - ctransformers​
+ - Pillow​
 
 Ensure all necessary libraries are installed, and the Stable Diffusion XL model is accessible at the specified path.​
 
@@ -58,11 +57,9 @@ The model files, including sd_xl_base_1.0.safetensors, will be available in this
 Alternative: Manual Download via Web Browser: If you prefer not to use Git, you can manually download the model files:
 
 Visit the Model Repository Page:
-
 Go to the Stable Diffusion XL Base 1.0 repository.​
 
 Download the Model File:
-
 Navigate to the "Files and versions" section.​
 Locate the sd_xl_base_1.0.safetensors file.​
 

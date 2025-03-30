@@ -67,7 +67,7 @@ Click on the file to open it, then click the "Download" button to save it to you
 
 Note: The model file is substantial in size (approximately 6.94 GB), so ensure you have sufficient storage space and a stable internet connection.​
 
-Second Alternative: 
+Third Alternative: 
 1. Go to - https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/tree/main
 2. Click 'Use This Model', then click on 'Diffusers' like shown below in image
 

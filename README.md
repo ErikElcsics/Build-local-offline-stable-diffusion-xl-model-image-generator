@@ -26,7 +26,7 @@ Ensure all necessary libraries are installed, and the Stable Diffusion XL model 
 
 Usage
 Clone the Repository:
-git clone https://github.com/yourusername/local-sdxl-image-generator.git
+git clone https://github.com/ErikElcsics/Build-local-offline-stable-diffusion-xl-model-image-generator.git
 
 Navigate to the Project Directory:
 cd local-sdxl-image-generator
@@ -46,7 +46,7 @@ git lfs install
 Clone the Model Repository:
 Use Git to clone the model repository from Hugging Face:​
 
-git clone https://github.com/ErikElcsics/Build-local-offline-stable-diffusion-xl-model-image-generator.git
+git clone https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
 This command downloads the entire repository, including all necessary files and directories.​
 
 Access the Downloaded Model Files:
